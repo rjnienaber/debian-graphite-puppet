@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /opt/deploy/graphite/webapp/graphite
+
+chpst gunicorn_django -b 127.0.0.1:3000 -u www-data -g www-data

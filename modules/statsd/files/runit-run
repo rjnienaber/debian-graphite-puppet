@@ -1,0 +1,2 @@
+#!/bin/sh
+chpst -unobody node /opt/deploy/statsd/stats.js /opt/deploy/statsd/prod.js
