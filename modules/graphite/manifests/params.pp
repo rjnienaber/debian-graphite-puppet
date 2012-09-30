@@ -1,6 +1,5 @@
 class graphite::params {
 
-<<<<<<< HEAD
   $graphitedir    = "/opt/deploy/graphite"
   $graphitewebdir = "/opt/deploy/graphite/webapp/graphite"
   $graphiteuser   = "graphite"
